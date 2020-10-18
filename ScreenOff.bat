@@ -1,0 +1,1 @@
+start scrnsave.scr /s
